@@ -17,6 +17,12 @@ n stable
 node -v
 npm install nodemon -g
 
+# Install ZeroMQ from Source - http://stackoverflow.com/a/13833189/1148249
+# Latest: http://zeromq.org/intro:get-the-software
+wget http://download.zeromq.org/zeromq-4.0.5.tar.gz
+tar zxvf zeromq-4.0.5.tar.gz && cd zeromq-4.0.5
+./configure
+make && make install
 
 SCRIPT
 

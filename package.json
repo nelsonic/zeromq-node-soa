@@ -1,0 +1,28 @@
+{
+  "name": "zeromq-node-soa",
+  "version": "1.0.0",
+  "description": "node.js zeromq soa examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsonic/zeromq-node-soa"
+  },
+  "keywords": [
+    "zeromq",
+    "node.js",
+    "service",
+    "architecture"
+  ],
+  "author": "@nelsonic <contact.nelsonic@gmail.com> (https://github.com/nelsonic)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonic/zeromq-node-soa/issues"
+  },
+  "homepage": "https://github.com/nelsonic/zeromq-node-soa",
+  "dependencies": {
+    "zmq": "^2.8.0"
+  }
+}
