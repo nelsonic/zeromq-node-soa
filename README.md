@@ -21,3 +21,4 @@ https://www.npmjs.com/package/zmq
 
 - http://zeromq.org/
 - http://zeromq.org/intro:read-the-manual
+- Node.js + ZeroMQ (Node The Right Way): http://it-ebooks.info/book/3747/
