@@ -7,7 +7,7 @@ sudo -i
 # update ubuntu (security etc.)
 apt-get update
 
-apt-get -y install g++ git git-core nodejs
+apt-get -y install g++ git git-core nodejs uuid-dev libtool autoconf automake
 
 # nodejs
 apt-get -y install g++ git git-core nodejs npm
