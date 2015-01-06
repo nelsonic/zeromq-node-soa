@@ -25,3 +25,4 @@ https://www.npmjs.com/package/zmq
 - Node The Right Way Exercises: https://github.com/ryanolsonx/node-js-the-right-way-exercises
 - Intro to ZeroMQ with Python: http://drumcoder.co.uk/blog/2010/dec/05/simple-zeromq-ubuntu/
 - ZGuide: http://zguide.zeromq.org/page:all (complete guide!)
+- Broker vs. Brokerless: http://zeromq.org/whitepapers:brokerless
